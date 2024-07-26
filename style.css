@@ -57,9 +57,33 @@ padding: 10px;
 
 }
 main>a{
-    display: block;
-    text-align:center;
+    
+   text-align: center;
+   
+    
 
+}
+main a.instagram{
+    display: block;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    margin: auto;
+    width: 90px;
+    background-image: linear-gradient(to right, rgba(255, 255, 0, 0.842) ,rgb(255, 111, 135) ,rgba(128, 0, 128, 0.767));
+    padding: 20px 50px;
+
+}
+main a.whastapp{
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color:green;
+    border-radius: 10px;
+    margin: auto;
+    width: 90px;
+    padding: 20px 50px;
+   
 }
 section{
     color: white;
@@ -77,7 +101,10 @@ section h2{
 section>img{
    display: block;
    margin: auto;
+
+
 }
+
 p.nomes{
     font-family: "olimpia";
     font-size: 30px;
