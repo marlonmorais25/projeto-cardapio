@@ -19,6 +19,8 @@
 body{
     margin: 0px;
     background-color: black;
+    max-width: 600px;
+    margin: auto;
 }
 header{
     background-image: url(imagens/pngtree-fast-food-doodles-hand-drawn-colorful-vector-symbols-and-objects-picture-image_1846880.jpg) ;
